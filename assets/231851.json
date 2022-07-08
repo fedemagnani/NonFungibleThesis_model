@@ -1,0 +1,49 @@
+{
+    "name": "Luiss Thesis #231851",
+    "symbol": "LUISST",
+    "description": "Title: Semantica del valore, modelli fattoriali e teoria del portafoglio nel mercato delle criptovalute \nSubject: Financial Market Analysis \nCandidate: Federico Magnani (231851)",
+    "seller_fee_basis_points": 0,
+    "image": "https://videohive.img.customer.envatousercontent.com/files/08c9165d-bc26-4409-967c-940ee1d84e5d/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=5f21803ceb5458d9e40b7df4d55abad9",
+    "animation_url": "https://www.arweave.net/o7nSMf4-wCQX4ZJAwrKsYz2SEYW6shHrwLZxuoZEPFA?ext=glb",
+    "external_url": "https://tesi.luiss.it/id/eprint/30548",
+    "attributes": [
+      {
+        "trait_type": "Candidate",
+        "value": "Federico Magnani"
+      },
+      {
+        "trait_type": "Badge Number",
+        "value": "231851"
+      },
+      {
+        "trait_type": "Subject",
+        "value": "Financial Market Analysis"
+      },
+      {
+        "trait_type": "Degree",
+        "value": "Bachelor's Degree"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2020/2021"
+      },
+      {
+        "display_type": "date", 
+        "trait_type": "graduation date", 
+        "value": 1626181200
+      }
+    ],
+    "collection": {
+      "name": "Luiss Thesis",
+      "family": "LUISST"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://www.arweave.net/o7nSMf4-wCQX4ZJAwrKsYz2SEYW6shHrwLZxuoZEPFA?ext=glb",
+          "type": "image/glb"
+        }
+      ],
+      "category": "image"
+    }
+  }

@@ -1,0 +1,11 @@
+Rinkeby: 
+    Contract Creation: https://rinkeby.etherscan.io/tx/0xa0a6172bf3daecdff9ee77d976f8a247a794be2aea9f9bb2f27348040d37bf2a
+    Minting: https://rinkeby.etherscan.io/tx/0xf840d0b9830a12540faf0d8401db3ff6b10a40b10ed2087be6034e737da6b03d
+    OpenSeaNFT: https://testnets.opensea.io/assets/rinkeby/0x03e907b27570d2ca95cd49c134a60852de4e634b/231851
+
+To do list:
+- Base contract: ok
+- Oggetto Three.js: ok
+- Importazione frontespizio: ~
+- Caricamento su ipfs (via pinata api?): ~
+- Frontend sito: ~
