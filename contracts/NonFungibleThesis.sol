@@ -1,5 +1,7 @@
 //SPDX-License-Identifier: UNLICENSED
 //Vulnerability: University might register several times a same alumno via different universityIDS (Bug could be a feature: bachelor and master degree?)
+//Univeristy methods are set to only owner: the best thing is probably creating a "register_university()" method that is onlyowner and then creating a modifier that checks whether msg.sender is a whitelisted university
+
 pragma solidity >=0.6.0;
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
